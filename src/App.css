@@ -1,0 +1,10 @@
+/* Nav bar */
+
+.navbar-nav a{
+  font-size: 18px;
+}
+
+/* Movie card */
+.movies-list{
+  display: flex;
+}
